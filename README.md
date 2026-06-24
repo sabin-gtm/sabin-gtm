@@ -2,9 +2,7 @@
 
 🔭 I’m currently studying Bsc.CSIT.<br>👯 I’m looking to collaborate on web development.<br>🤝 I’m looking for help to motivate me daily.<br>🌱 I’m currently learning some real skills.<br>💬 Ask me about my anything from personal to professional.<br>⚡ Fun fact : Me myself cannot understand me.
 
-## 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sabin.gautam.344841) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@mr_sabin_gautam) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@sabingautam123) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC4gxfsE_JYuJUs8KO018ukA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gautamsabin87@gmail.com)
 
 # 💻 Tech Stack:
 
@@ -25,6 +23,10 @@
 ![](https://streak-stats.demolab.com/?user=sabin-gtm&theme=cobalt&hide_border=false)<br/>
 
 ![](https://github-readme-stats.shion.dev/api?username=sabin-gtm&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+## 🌐 Socials:
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sabin.gautam.344841) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@mr_sabin_gautam) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@sabingautam123) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC4gxfsE_JYuJUs8KO018ukA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gautamsabin87@gmail.com)
 
 ## 🏆 GitHub Trophies
 
